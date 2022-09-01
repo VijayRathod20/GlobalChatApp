@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454061537446",
+    "project_id": "globalchat-1fbdf",
+    "storage_bucket": "globalchat-1fbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454061537446:android:e1ea4be38bd15b1d049c67",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454061537446-9k2onpn8hrvd00elf0el4dbdlqe5ocgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATW2si8MeLpPqxKJK28E8G1awYoNImHZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454061537446-9k2onpn8hrvd00elf0el4dbdlqe5ocgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
